@@ -8,13 +8,13 @@ body {
 .header {
 	text-align: center;
 }
-.socials{
+.socials {
 	font-size: 28px;
 }
 a {
 	color: green;
 }
-a:hover{
+a:hover {
 	color: lightgreen;
 }
 
