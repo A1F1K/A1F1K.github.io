@@ -1,0 +1,23 @@
+body {
+	background-color: black;
+	color: green;
+	letter-spacing: 1px;
+	font-size: 16px;
+}
+
+.header {
+	text-align: center;
+}
+.socials{
+	font-size: 24px;
+}
+a {
+	color: green;
+}
+a:hover{
+	color: lightgreen;
+}
+
+h1 {
+	letter-spacing: 3px;
+}
